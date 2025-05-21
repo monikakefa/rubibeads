@@ -114,7 +114,7 @@ cite span { font-weight: 400; color: #333; }
 .col23 { width: 450px }
 
 #site_title { padding: 20px 0 }
-#site_title a { display: block; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; width: 280px; height: 105px; color: #acacac; text-indent: -10000px; background: url(images/templatemo_logo.png) no-repeat top left }
+#site_title a { display: block; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; width: 280px; height: 105px; color: #080707; text-indent: -10000px; background: url(images/templatemo_logo.png) no-repeat top left }
 
 #templatemo_menu { clear: both; padding: 10px; width: 960px; height: 30px; background: url(images/templatemo_menu.png)}
 
@@ -160,14 +160,14 @@ cite span { font-weight: 400; color: #333; }
 	position: absolute;
 	bottom: -5px;
 	left: 0px;
-	width: 720px;
+	width: 242px;
 	height: 5px;
 	background: url(images/templatemo_sbbgb.png)
 }
 .sidebar_box h3 { font-size: 14px; font-weight: 700; padding: 0 10px 0 10px; margin: 0; width: 222px; height: 44px; line-height: 44px; margin-bottom: 0; background: url(images/templatemo_sbheader.png)  no-repeat; color: #fff }
 
 #sidebar .sidebar_box .content {
-	padding: 60px 60px 5px;
+	padding: 10px 10px 5px;
 	background: url(images/templatemo_sbbg.png) repeat-y
 }
 
@@ -207,7 +207,7 @@ cite span { font-weight: 400; color: #333; }
 }
 .product_box .add_to_cart {
 	clear: both;
-	width: 720px;
+	width: 165px;
 	height: 28px;
 	background: url(images/addtocart.png) no-repeat
 }
@@ -261,8 +261,8 @@ a.button {
 #contact_form form textarea { 
 	width: 400px; 
 	height: 120px; 
-	background: #395015; 
-	border: 1px solid #5d7c29; 
+	background: #ac0875; 
+	border: 1px solid #ac0875; 
 	margin-bottom: 10px;
 	padding: 4px;
 	color: #FFFFFF;
