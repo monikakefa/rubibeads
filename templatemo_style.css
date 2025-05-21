@@ -207,7 +207,7 @@ cite span { font-weight: 400; color: #333; }
 }
 .product_box .add_to_cart {
 	clear: both;
-	width: 165px;
+	width: 720px;
 	height: 28px;
 	background: url(images/addtocart.png) no-repeat
 }
